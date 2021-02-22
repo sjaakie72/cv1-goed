@@ -26,7 +26,7 @@ With this theme/plugin you can use WP, MDX or both 🤯
 
     ```sh
     # create a new Gatsby site using the hello-world starter
-    gatsby new my-mountain-starter https://github.com/artezan/gatsby-starter-mountain
+    gatsby new my-mountain-starter https://github.com/sjaakie72/cv1-goed
     ```
 
 1.  **Start developing.**
